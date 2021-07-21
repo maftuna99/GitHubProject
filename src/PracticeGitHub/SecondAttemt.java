@@ -8,5 +8,6 @@ public class SecondAttemt {
         System.out.println("Im from Batch 23");
 
         System.out.println("Something wrong");
+        System.out.println("Not working");
     }
 }
